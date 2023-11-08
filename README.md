@@ -1,7 +1,7 @@
 # Hello-World
 ## Kyung Hee Univ. Opersource Software Programming Github Practice
 - 2023 Fall
-- Sungwon Lee
+- Prof. Sungwon Lee
 
 ## Hello-World
 Git.merge(Branch "Hello", Branch "World")
