@@ -4,7 +4,7 @@
 - Prof. Sungwon Lee
 
 ## Hello-World
-Git.merge(Branch "Hello", Branch "World")
+git.merge(Branch "Hello", Branch "World")
 
 ## How to run
 - **Anaconda**
